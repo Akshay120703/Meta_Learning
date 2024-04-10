@@ -5,6 +5,8 @@ This file is designed to run on either Google Colab or Jupyter Notebook as the u
 2) Jupyter Notebook Installation Link:- https://jupyter.org/install
 
 
+
+
 Project Structure
 
 1] Study 1
@@ -36,8 +38,6 @@ Meta-model,
 Voting 
 
 3] Last prediction
-//////////////////////////////////////////////////////
-
 
 Federated learning
  (3 nodes) 
