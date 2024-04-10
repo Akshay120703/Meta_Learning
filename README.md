@@ -9,30 +9,30 @@ Project Structure
 
 Study 1
 
-Using All the parameters
+(Using All the parameters)
 
-Correlation matrix
-Baseline models of ML 
-K-fold validation
-Concatenate the results
+Correlation matrix ----->
+Baseline models of ML ----->
+K-fold validation ----->
+Concatenate the results ----->
 
-Meta-model
+Meta-model, 
 Voting 
 
 Last prediction
 
 
 Study 2
-Using some parameters - set 1
-Using some parameters - set 2
+(Using some parameters - set 1
+Using some parameters - set 2)
 
-Correlation matrix
-Dimensionality - PCA, etc.
-Baseline models of ML 
-K-fold validation
-Concatenate the results
+Correlation matrix ----->
+Dimensionality - PCA, etc. ----->
+Baseline models of ML ----->
+K-fold validation ----->
+Concatenate the results ----->
 
-Meta-model
+Meta-model, 
 Voting 
 
 Last prediction
@@ -40,7 +40,7 @@ Last prediction
 
 
 Federated learning
- 3 node 
-On 1st node ML model 
-On 2nd node 1 deep model
+ (3 nodes) 
+On 1st node ML model, 
+On 2nd node 1 deep model, 
 On 3rd node MLP
