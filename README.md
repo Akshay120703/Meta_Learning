@@ -7,7 +7,7 @@ This file is designed to run on either Google Colab or Jupyter Notebook as the u
 
 Project Structure
 
-Study 1
+1] Study 1
 
 (Using All the parameters)
 
@@ -22,7 +22,7 @@ Voting
 Last prediction
 
 
-Study 2
+2] Study 2
 (Using some parameters - set 1
 Using some parameters - set 2)
 
@@ -35,7 +35,7 @@ Concatenate the results ----->
 Meta-model, 
 Voting 
 
-Last prediction
+3] Last prediction
 //////////////////////////////////////////////////////
 
 
